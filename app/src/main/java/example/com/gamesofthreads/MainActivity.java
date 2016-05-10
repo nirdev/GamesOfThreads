@@ -6,10 +6,7 @@ import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+
 
         Log.wtf("here", "no im building a master branch");
         Log.wtf("here", "this is experiment number 1 a");
