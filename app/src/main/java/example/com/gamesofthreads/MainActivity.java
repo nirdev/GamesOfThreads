@@ -10,8 +10,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.wtf("here", " initial commit");
 
-        Log.wtf("here", "no we're going to do some benches !");
+        Log.wtf("here", "no im building a master branch");
+        Log.wtf("here", "this is experiment number 1");
     }
 }
