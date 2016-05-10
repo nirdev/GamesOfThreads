@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.wtf("here", " initial commit");
+
+        Log.wtf("here", "no im building a master branch");
     }
 }
