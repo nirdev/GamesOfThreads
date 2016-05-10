@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.wtf("here", " initial commit");
 
-        Log.wtf("here", "no im building a master branch");
+        Log.wtf("here", "no we're going to do some benches !");
     }
 }
