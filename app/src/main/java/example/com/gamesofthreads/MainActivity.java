@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.wtf("here", "no im building a master branch");
-        Log.wtf("here", "this is experiment number 1");
+        Log.wtf("here", "this is experiment number 1 a");
     }
 }
