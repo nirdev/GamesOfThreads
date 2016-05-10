@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         Log.wtf("here", " initial commit");
 
         Log.wtf("here", "no im building a master branch");
+        Log.wtf("here", "now let's check some commits");
     }
 }
